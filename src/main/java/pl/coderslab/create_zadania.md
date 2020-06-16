@@ -1,9 +1,9 @@
-## Zadanie 1 - rozwiązywane z wykładowcą
+## Zadanie 1 -
 
 1. Utwórz bazę o nazwie ```products_ex```, pamiętaj o prawidłowym kodowaniu.
 2. Zapisz zapytanie w zmiennej `query` w pliku `Main1.java`.
 
-## Zadanie 2 - rozwiązywane z wykładowcą
+## Zadanie 2 -
 
 W bazie danych o nazwie ```products_ex``` stwórz następujące tabele:
 ```SQL
